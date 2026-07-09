@@ -1,4 +1,7 @@
-# Neil Khan - Personal Expense Tracker (Base level)
+# Student Name - Neil Khan
+# Date - 23 June 2026
+# Program Description - Personal Expense Tracker (Week 4 Assignment)
+# Tier Level - Base Level
 
 import os
 import datetime
