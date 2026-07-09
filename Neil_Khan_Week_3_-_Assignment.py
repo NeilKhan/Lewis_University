@@ -1,4 +1,7 @@
-# Neil Khan - Personal Fitness Tracker (Base Version)
+# Student Name - Neil Khan
+# Date - 16 June 2026
+# Program Description - Personal Fitness Tracker (Week 3 Assignment)
+# Tier Level - Base Level
 
 # Function to calculate calories burned per minute
 def calories_per_minute(calories_burned, workout_duration):
